@@ -11,6 +11,7 @@ body {
     color: var(--text-color);
     background-image: var(--hatterkep);
     background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
     min-height: 100vh;
 }
