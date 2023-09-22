@@ -1,0 +1,15 @@
+@import 'index.css';
+
+body {
+    background-image: url(../images/kep_4.jpg);
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        background: linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05)),
+        url(../images/kep_4.jpg);
+        background-position: center;
+        min-height: 100vh;
+    }
+
+}

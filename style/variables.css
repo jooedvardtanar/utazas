@@ -1,0 +1,13 @@
+:root {
+    --title: ubuntu;
+    --text: ubuntu-regular;
+    --medium: ubuntu-medium;
+    --text-color: #001021;
+    --footer: #034748;
+    --blue-600: #1481ba;
+    --blue-500: #11b5e4;
+    --blue-400: #c6d4ff;
+    --white-0: #ffffff;
+    --hatterkep:  url('../images/kep_2.jpg');
+    --list-gap: 3rem;
+}
